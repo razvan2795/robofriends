@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'BOXIGEN Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('BOXIGEN Regular'), url('Boxigen-w1L53.woff') format('woff');
+    }
+
+h1{
+    font-family: 'BOXIGEN Regular';
+    font-weight: 200;
+    color: #3167bd;
+
+}
